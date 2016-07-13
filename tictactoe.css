@@ -1,0 +1,151 @@
+
+.turndiv{
+	color:red;
+}
+
+
+.manone{
+	
+	
+}
+
+
+
+.manone .one{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:300px;
+	float:left;
+	font-size:120px;
+	text-align:center;
+	
+}
+
+.manone .two{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:10px;
+	top:100px;
+    float:left;
+    font-size:120px;
+	text-align:center;	
+	
+
+}
+
+.manone .three{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:10px;
+	top:100px;
+    float:left;	
+    font-size:120px;
+	text-align:center;
+	
+
+}
+
+
+
+.mantwo{
+     margin-top:180px;
+	
+}
+
+
+
+.mantwo .one{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:300px;
+	float:left;
+	font-size:120px;
+	text-align:center;
+	
+}
+
+.mantwo .two{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:10px;
+	top:100px;
+    float:left;	
+    font-size:120px;
+	text-align:center;
+	
+
+}
+
+.mantwo .three{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:10px;
+	top:100px;
+    float:left;	
+    font-size:120px;
+	text-align:center;
+	
+
+}
+
+.manthree{
+     margin-top:400px;
+	
+}
+
+
+
+.manthree .one{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:300px;
+	float:left;
+	font-size:120px;
+	text-align:center;
+	
+	
+}
+
+.manthree .two{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:10px;
+	top:100px;
+    float:left;
+    font-size:120px;
+	text-align:center;
+		
+	
+
+}
+
+.manthree .three{
+	background: red;
+	height:200px;
+	width:200px;
+	border-radius: 20px;
+	margin-left:10px;
+	top:100px;
+    float:left;
+    font-size:120px;
+	text-align:center;
+		
+	
+
+}
